@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 href = 'https://www.tiobe.com/tiobe-index/'
 r = requests.get(href)
-print('--- [20 najpopularniejszych jezyków programowania](../jezyki-programowania) ---')
+print('--- title: [20 najpopularniejszych jezyków programowania](../jezyki-programowania) ---')
 # prsint(r.text)
 
 # soup = BeautifulSoup(r.text, 'html.parser')
