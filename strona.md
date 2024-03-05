@@ -1,1 +1,1 @@
---- title: [20 najpopularniejszych jezyków programowania](../jezyki_programowania/) ---
+permalink: [20 najpopularniejszych jezyków programowania](../jezyki_programowania)
