@@ -1,3 +1,1 @@
----# AWWW---
----Anna Piórkowska---
----[20 najpopularniejszych jezyków programowania](balwancia.github.io/jezyki-programowania)---
+--- [20 najpopularniejszych jezyków programowania](balwancia.github.io/jezyki-programowania) ---
