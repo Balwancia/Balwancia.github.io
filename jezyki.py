@@ -37,8 +37,9 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         lista.write(procent)
         lista.write('\n')
         with open(f'{nazwa1}.md', 'w') as jezyk:
-            results = DDGS().answers(nazwa1)
-            print(str(results))
-            jezyk.write(str(results))
+            jezyk.write('kotki na niebie')
+            # results = DDGS().answers(nazwa1)
+            # print(str(results))
+            # jezyk.write(str(results))
         l = l + 1
         print('\n')
