@@ -1,1 +1,1 @@
-balwanki są super
+[{'title': 'UniCredit S.p.A. - Revised date for 1Q24 results - TradingView', 'href': 'https://www.tradingview.com/news/reuters.com,2024-03-06:newsml_EM1FXPYva:0-unicredit-s-p-a-revised-date-for-1q24-results/', 'body': 'KOMISJA NADZORU FINANSOWEGORaport bieżący nr 28 / 2024Data sporządzenia: 2024-03-06Skrócona nazwa emitentaUniCreditTematRevised date for 1Q24 resultsPodstawa prawnaInne uregulowaniaTreść raportu:UniCredit S.p.A announces it has moved the date of the Board of Directors approval of the firstquarter 2…'}]
