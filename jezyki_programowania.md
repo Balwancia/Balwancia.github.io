@@ -1,41 +1,41 @@
 20 najpopularniejszych języków programowania:
 
-[Python page](../2)
+[Python](../Python)
 
-[C page](../3)
+[C](../C)
 
-[C++ page](../4)
+[C++](../C++)
 
-[Java page](../5)
+[Java](../Java)
 
-[C# page](../6)
+[C#](../C#)
 
-[change](../7)
+[JavaScript](../JavaScript)
 
-[change](../8)
+[SQL](../SQL)
 
-[change](../9)
+[Go](../Go)
 
-[change](../10)
+[Visual Basic](../Visual Basic)
 
-[PHP page](../11)
+[PHP](../PHP)
 
-[change](../12)
+[Fortran](../Fortran)
 
-[change](../13)
+[Delphi/Object Pascal](../Delphi/Object Pascal)
 
-[MATLAB page](../14)
+[MATLAB](../MATLAB)
 
-[change](../15)
+[Assembly language](../Assembly language)
 
-[change](../16)
+[Scratch](../Scratch)
 
-[change](../17)
+[Swift](../Swift)
 
-[change](../18)
+[Kotlin](../Kotlin)
 
-[change](../19)
+[Rust](../Rust)
 
-[change](../20)
+[COBOL](../COBOL)
 
-[change](../21)
+[Ruby](../Ruby)
