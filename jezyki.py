@@ -16,6 +16,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         d = a.find_all('td')
         nazwa = str(d[4].text)
         procent = str(d[5].text)
+        obrazek = d[3].find('img')['src']
         with open('{nazwa}.md', 'w') as jezyk:
             jezyk.write("balwanki są super")
             l = l + 1
@@ -25,6 +26,8 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         # print(b.get('td'))
         lista.write('\n')
         lista.write(str(l) + '. ')
+        lista.write('[](')
+        lista.write(obrazek + ')' + '\n')
         lista.write('[')
         lista.write(nazwa)
         lista.write('](../')
