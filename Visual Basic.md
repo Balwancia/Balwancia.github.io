@@ -1,3 +1,3 @@
 # Visual Basic
-Visual Basic to język programowania obiektowego opracowany przez firmę Microsoft. Korzystanie z języka Visual Basic umożliwia szybkie i łatwe tworzenie bezpiecznych dla typów aplikacji .NET. Rozpocznij. Pobierz zestaw .NET SDK. Rozpocznij. Tworzenie aplikacji konsolowej platformy .NET Core przy użyciu programu Visual Studio.
-Źródło: https://learn.microsoft.com/pl-pl/dotnet/visual-basic/
+Visual Basic - język programowania wysokiego poziomu i narzędzie programowania firmy Microsoft. Składnia jest oparta na języku BASIC, ale unowocześniona. Zawiera kilkadziesiąt instrukcji, funkcji i słów kluczowych. Nie jest językiem w pełni obiektowym, gdyż nie udostępnia np. możliwości dziedziczenia, czy polimorfizmu.
+Źródło: https://pl.wikipedia.org/wiki/Visual_Basic
