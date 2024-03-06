@@ -1,4 +1,4 @@
-Java
+#Java
 
-Java is a general-purpose language with a wide range of applications. It's used for developing mobile and desktop applications, big data processing, embedded systems, and so on. Java is an object-oriented programming language. It helps in code reusability.
-Source: https://www.programiz.com/java-programming
+Java jest językiem tworzenia programów źródłowych kompilowanych do kodu bajtowego, czyli postaci wykonywanej przez maszynę wirtualną. Język cechuje się silnym typowaniem. Jego podstawowe koncepcje zostały przejęte z języka Smalltalk (maszyna wirtualna, zarządzanie pamięcią) oraz z języka C++ (duża część składni i słów kluczowych).
+Źródło: https://pl.wikipedia.org/wiki/Java

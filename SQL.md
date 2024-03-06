@@ -1,4 +1,4 @@
-SQL
+#SQL
 
-SQL is a set-based, declarative programming language, not an imperative programming language like C or BASIC. However, extensions to Standard SQL add procedural programming language functionality, such as control-of-flow constructs.
-Source: https://en.wikipedia.org/wiki/SQL
+SQL, skrót od „Structured Query Language" (strukturalny język zapytań), to język programowania specjalnego przeznaczenia, służący do zarządzania dużymi ilościami danych i ich analizowania. Firmy, które zbierają duże ilości danych dotyczących klientów, ich aktywów oraz związków między nimi, wykorzystują język SQL do ...
+Źródło: https://businessinsider.com.pl/technologie/nauka/sql-na-czym-polega-ten-jezyk-programowania/84hgpn8

@@ -1,4 +1,4 @@
-Swift
+#Swift
 
-Swift is a powerful and intuitive programming language optimized when running on iOS, macOS, and other Apple platforms. Apple offers a wide variety of frameworks and APIs that make applications developed for these platforms unique and fun. Learn more; Cross-platform Command-line. Writing Swift is interactive and fun, the syntax is concise yet ...
-Source: https://www.swift.org/
+Swift - język programowania stosowany na urządzeniach z systemami macOS, iOS, iPadOS, watchOS, tvOS, Linux oraz Windows (wersja 5.3), stworzony przez Apple Inc. Zaprezentowany po raz pierwszy podczas Worldwide Developers Conference 2 czerwca 2014. Język jest następcą Objective-C.
+Źródło: https://pl.wikipedia.org/wiki/Swift_(język_programowania_LLVM)

@@ -1,4 +1,4 @@
-C#
+#C#
 
-C# is a modern, innovative, open-source, cross-platform object-oriented programming language and one of the top 5 programming languages on GitHub. Do you have experience with JavaScript, Java, or C++? You'll find C# instantly familiar, and you'll enjoy its evolving features including type safety, generics, pattern matching, async, records, and ...
-Source: https://dotnet.microsoft.com/en-us/languages/csharp
+C# [2] (C Sharp; wym. [ s i ː ˈ ʃ ɑ ː p]; dosłownie „ cis ", „ c z krzyżykiem ") - wieloparadygmatowy język programowania zaprojektowany w latach 1998-2001 przez zespół pod kierunkiem Andersa Hejlsberga dla firmy Microsoft .
+Źródło: https://pl.wikipedia.org/wiki/C_Sharp

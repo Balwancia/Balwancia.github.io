@@ -1,4 +1,4 @@
-COBOL
+#COBOL
 
-COBOL ( / ˈkoʊbɒl, - bɔːl /; an acronym for "common business-oriented language") is a compiled English-like computer programming language designed for business use. It is an imperative, procedural and, since 2002, object-oriented language. COBOL is primarily used in business, finance, and administrative systems for companies and governments.
-Source: https://en.wikipedia.org/wiki/COBOL
+COBOL (akronim od ang. common business-oriented language) - wysokopoziomowy język programowania stworzony i używany do tworzenia aplikacji biznesowych. COBOL jest językiem imperatywnym, proceduralnym, oraz od 2002 roku, obiektowym .
+Źródło: https://pl.wikipedia.org/wiki/COBOL

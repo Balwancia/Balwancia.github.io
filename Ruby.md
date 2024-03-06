@@ -1,4 +1,4 @@
-Ruby
+#Ruby
 
-A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. Download Ruby or Read More...
-Source: https://www.ruby-lang.org/en/
+Ruby (język programowania) Ruby (wym. [ ˈ r u : b i]) - interpretowany, w pełni obiektowy i dynamicznie typowany język programowania stworzony w 1995 roku przez Yukihiro Matsumoto (pseudonim Matz ). W języku angielskim ruby oznacza rubin . Ruby bazuje na wielu językach, takich jak CLU, Eiffel, Lisp, Perl, Python czy Smalltalk.
+Źródło: https://pl.wikipedia.org/wiki/Ruby_(język_programowania)

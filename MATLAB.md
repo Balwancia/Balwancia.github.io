@@ -1,4 +1,4 @@
-MATLAB
+#MATLAB
 
-MATLAB (an abbreviation of "MATrix LABoratory") is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages.
-Source: https://en.wikipedia.org/wiki/MATLAB
+Język programowania pakietu MATLAB jest pełnoprawnym językiem programowania wysokiego poziomu, o składni wzorowanej na języku C. Pozwala on na używanie funkcji i struktur, oraz umożliwia pisanie programów zorientowanych obiektowo. Posiada on instrukcje sterujące takie jak: if, for, while, switch.
+Źródło: https://pl.wikipedia.org/wiki/MATLAB

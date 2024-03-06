@@ -1,4 +1,4 @@
-C
+#C
 
-C is an imperative procedural language, supporting structured programming, lexical variable scope, and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support.
-Source: https://en.wikipedia.org/wiki/C_(programming_language)
+Najpopularniejsze języki programowania. Lista dwudziestu najczęściej używanych w XXI wieku języków programowania według TIOBE (stan z marca 2023 r.): Python (14,83%) C (14,73%) Java (13,56%) C++; C#; Visual Basic - zobacz także BASIC; JavaScript; SQL; PHP; Go; Asembler; Matlab; Delphi; Scratch; Classic Visual Basic; R; Fortran; Ruby ...
+Źródło: https://pl.wikipedia.org/wiki/Język_programowania

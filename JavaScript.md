@@ -1,4 +1,4 @@
-JavaScript
+#JavaScript
 
-JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced. Start learning JavaScript now ».
-Source: https://www.w3schools.com/Js/
+JavaScript, w skrócie JS - skryptowy oraz wieloparadygmatowy język programowania, stworzony przez firmę Netscape, najczęściej stosowany na stronach internetowych. Twórcą JavaScriptu jest Brendan Eich. W połowie lat 90.
+Źródło: https://pl.wikipedia.org/wiki/JavaScript

@@ -1,4 +1,4 @@
-Fortran
+#Fortran
 
-Fortran is a natively parallel programming language with intuitive array-like syntax to communicate data between CPUs. You can run almost the same code on a single CPU, on a shared-memory multicore system, or on a distributed-memory HPC or cloud-based system.
-Source: https://fortran-lang.org/
+Fortran (od wersji 90 do aktualnej) a dawniej FORTRAN (do wersji 77 włącznie) (od ang. formula translation) - język programowania pierwotnie zaprojektowany do zapisu programów obliczeniowych, był niegdyś językiem proceduralnym, obecnie jest nadal rozwijanym językiem ogólnego przeznaczenia.
+Źródło: https://pl.wikipedia.org/wiki/Fortran
