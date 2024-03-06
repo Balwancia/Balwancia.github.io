@@ -1,40 +1,41 @@
 20 najpopularniejszych języków programowania:
-[](/wp-content/themes/tiobe/tiobe-index/images/Python.png)
 
-[](/wp-content/themes/tiobe/tiobe-index/images/C.png)
+[Python page](../2.md)
 
-[](/wp-content/themes/tiobe/tiobe-index/images/C__.png)
+[C page](../3.md)
 
-[](/wp-content/themes/tiobe/tiobe-index/images/Java.png)
+[C++ page](../4.md)
 
-[](/wp-content/themes/tiobe/tiobe-index/images/C_.png)
+[Java page](../5.md)
 
-[](/wp-content/themes/tiobe/tpci/images/up.png)
+[C# page](../6.md)
 
-[](/wp-content/themes/tiobe/tpci/images/up.png)
+[change](../7.md)
 
-[](/wp-content/themes/tiobe/tpci/images/up.png)
+[change](../8.md)
 
-[](/wp-content/themes/tiobe/tpci/images/down.png)
+[change](../9.md)
 
-[](/wp-content/themes/tiobe/tiobe-index/images/PHP.png)
+[change](../10.md)
 
-[](/wp-content/themes/tiobe/tpci/images/upup.png)
+[PHP page](../11.md)
 
-[](/wp-content/themes/tiobe/tpci/images/up.png)
+[change](../12.md)
 
-[](/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png)
+[change](../13.md)
 
-[](/wp-content/themes/tiobe/tpci/images/downdown.png)
+[MATLAB page](../14.md)
 
-[](/wp-content/themes/tiobe/tpci/images/up.png)
+[change](../15.md)
 
-[](/wp-content/themes/tiobe/tpci/images/down.png)
+[change](../16.md)
 
-[](/wp-content/themes/tiobe/tpci/images/upup.png)
+[change](../17.md)
 
-[](/wp-content/themes/tiobe/tpci/images/up.png)
+[change](../18.md)
 
-[](/wp-content/themes/tiobe/tpci/images/upup.png)
+[change](../19.md)
 
-[](/wp-content/themes/tiobe/tpci/images/downdown.png)
+[change](../20.md)
+
+[change](../21.md)
