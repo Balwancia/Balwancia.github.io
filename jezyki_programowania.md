@@ -57,7 +57,7 @@
 
 12.
 ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png)
-[Delphi_Object Pascal](../Delphi_Object Pascal)
+[Delphi/Object Pascal](../Delphi/Object Pascal)
 1.40%
 
 13.

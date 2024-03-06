@@ -17,7 +17,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         # print(a)
         d = a.find_all('td')
         nazwa = str(d[4].text)
-        nazwa = nazwa.replace('/', '_')
+        nazwa1 = nazwa.replace('/','_')
         procent = str(d[5].text)
         obrazek = d[3].find('img')['src']
         # print(obrazek)
@@ -36,7 +36,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         lista.write(')\n')
         lista.write(procent)
         lista.write('\n')
-        with open(f'{nazwa}.md', 'w') as jezyk:
+        with open(f'{nazwa1}.md', 'w') as jezyk:
             results = DDGS().answers(nazwa)
             print(str(results))
             jezyk.write(str(results))
