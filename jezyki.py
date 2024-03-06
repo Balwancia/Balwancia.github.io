@@ -17,6 +17,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         # print(a)
         d = a.find_all('td')
         nazwa = str(d[4].text)
+        nazwa = nazwa.replace('/', '_')
         procent = str(d[5].text)
         obrazek = d[3].find('img')['src']
         # print(obrazek)
@@ -36,13 +37,8 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         lista.write(procent)
         lista.write('\n')
         with open(f'{nazwa}.md', 'w') as jezyk:
-            # jezyk.write("balwanki są super")
-            # results = DDGS().text('{nazwa}', region='wt-wt', safesearch='off', timelimit='y', max_results=1)
             results = DDGS().answers(nazwa)
             print(str(results))
             jezyk.write(str(results))
-            # jezyk.write('ania jest super')
-        # lista.write(str(c))
-        # print(tab.find'tr'))
         l = l + 1
         print('\n')
