@@ -1,3 +1,3 @@
 # Go
-Go (często nazywany także golang) - wieloparadygmatowy język programowania opracowany przez pracowników firmy Google: Roberta Griesemera, Roba Pike'a oraz Kena Thompsona. Łączy w sobie łatwość pisania aplikacji charakterystyczną dla języków dynamicznych (np. Python, Lisp ), jak również wydajność języków kompilowanych (np. C, C++ ).
-Źródło: https://pl.wikipedia.org/wiki/Go_(język_programowania)
+Golang to open-sourcowy język programowania, który charakteryzuje się prostotą składni (co mocno ułatwia jego naukę), ale też dużą wydajnością (dzięki czemu programy pisane w GO mają szerokie zastosowanie na tzw. 'backendzie'). Jego wersja 1.0 miała swoją publiczną premierę w 2012. Jakie zalety ma język programowania GO?
+Źródło: https://programistkisasuper.pl/programowanie-w-go-dla-poczatkujacych/

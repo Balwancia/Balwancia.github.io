@@ -1,3 +1,3 @@
 # C#
-Język C# umożliwia deweloperom tworzenie wielu typów bezpiecznych i niezawodnych aplikacji uruchamianych na .NET. Język C# ma swoje korzenie w rodzinie języków C i od razu będzie zaznajomiony z programistami języków C, C++, Java i JavaScript. Ten przewodnik zawiera omówienie głównych składników języka w języku C# 8 i starszych.
-Źródło: https://learn.microsoft.com/pl-pl/dotnet/csharp/tour-of-csharp/
+C# [2] (C Sharp; wym. [ s i ː ˈ ʃ ɑ ː p]; dosłownie „ cis ", „ c z krzyżykiem ") - wieloparadygmatowy język programowania zaprojektowany w latach 1998-2001 przez zespół pod kierunkiem Andersa Hejlsberga dla firmy Microsoft .
+Źródło: https://pl.wikipedia.org/wiki/C_Sharp

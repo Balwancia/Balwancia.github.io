@@ -10,8 +10,7 @@ tab = soup.find('table').find('tbody').find_all('tr')
 
 with open(f'index.md', 'w') as index:
     index.write('# Witaj na mojej stronie, dla takiej osoby jak Ty, to warto się roztopić!\n' + 
-                '[20 najpopularniejszych jezyków programowania](../jezyki_programowania)\n' +
-                '![](https://images.emojiterra.com/google/android-12l/512px/2603.png)') 
+                '[20 najpopularniejszych jezyków programowania](../jezyki_programowania)\n' + '## ![](https://images.emojiterra.com/google/android-12l/512px/2603.png)') 
 
 with open(f'jezyki_programowania.md', 'w') as lista:
     lista.write("# 20 najpopularniejszych języków programowania:")
