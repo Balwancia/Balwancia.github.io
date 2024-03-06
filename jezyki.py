@@ -33,6 +33,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
             # jezyk.write('kotki na niebie')
             results = DDGS().text(nazwa1 + 'programming language', max_results=1)
             t = results[0]['body']
+            jezyk.write(nazwa + ' programming language\n\n')
             jezyk.write(t + '\n')
             jezyk.write('Source: ')
             h = results[0]['href']
@@ -43,4 +44,3 @@ with open(f'jezyki_programowania.md', 'w') as lista:
             # print(str(results))
             # jezyk.write(str(results))
         l = l + 1
-        print('\n')

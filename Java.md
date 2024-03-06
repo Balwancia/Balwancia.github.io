@@ -1,2 +1,4 @@
-Java (programming language) Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere ( WORA ), [16] meaning that compiled Java code can run on all platforms ...
-Source: https://en.wikipedia.org/wiki/Java_(programming_language)
+Javaprogramming language
+
+It is one of the most popular programming languages in the world. It has a large demand in the current job market. It is easy to learn and simple to use. It is open-source and free. It is secure, fast and powerful. It has huge community support (tens of millions of developers) Java is an object oriented language which gives a clear structure to ...
+Source: https://www.w3schools.com/java/java_intro.asp
