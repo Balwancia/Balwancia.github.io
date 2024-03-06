@@ -20,7 +20,6 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         print(obrazek)
         with open('{nazwa}.md', 'w') as jezyk:
             jezyk.write("balwanki są super")
-            l = l + 1
         b = a.find('td')
         c = a.find('img')
         # nazwa = c.get('alt')
@@ -39,6 +38,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         lista.write('\n')
         # lista.write(str(c))
         # print(tab.find'tr'))
+        l = l + 1
         print('\n')
 # print(tab)
 
