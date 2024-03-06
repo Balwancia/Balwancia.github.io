@@ -1,3 +1,3 @@
 # Assembly language
-WitamW dzisiejszym odcinku pokażę Ci jak stworzyć pierwszy program w języku assembly.AdnotacjaKurs przeznaczony jest dla osób początkujących, które zaczynają...
-Źródło: https://www.youtube.com/watch?v=4xyLOd0i0Xo
+Programowanie w asemblerze Asembler i jego j ̨ezyk. Zbigniew Jurkiewicz, Instytut Informatyki UW. 10 listopada 2020. 1 Asembler. Asembler to program, przetwarzaj acy ̨ plik ́zródłowy z tekstem programu w sym-bolicznym j ̨ezyku wewn ̨etrznym na plik wynikowy, tzw. moduł (ang. object code).
+Źródło: https://students.mimuw.edu.pl/~zbyszek/asm/pl/lectures/asm-4.pdf
