@@ -27,7 +27,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         # print(b.get('td'))
         lista.write('\n')
         lista.write(str(l) + '.\n')
-        lista.write('![](https:/')
+        lista.write('![](https://www.tiobe.com')
         lista.write(obrazek + ')' + '\n')
         lista.write('[')
         lista.write(nazwa)
