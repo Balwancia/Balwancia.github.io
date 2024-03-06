@@ -30,14 +30,14 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         lista.write('![](https://www.tiobe.com')
         lista.write(obrazek + ')' + '\n')
         lista.write('[')
-        lista.write(nazwa)
+        lista.write(nazwa1)
         lista.write('](../')
-        lista.write(nazwa)
+        lista.write(nazwa1)
         lista.write(')\n')
         lista.write(procent)
         lista.write('\n')
         with open(f'{nazwa1}.md', 'w') as jezyk:
-            results = DDGS().answers(nazwa)
+            results = DDGS().answers(nazwa1)
             print(str(results))
             jezyk.write(str(results))
         l = l + 1
