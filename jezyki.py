@@ -31,6 +31,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         lista.write(')')
         lista.write('\n')
         lista.write(procent)
+        lista.write('\n')
         # lista.write(str(c))
         # print(tab.find'tr'))
         print('\n')
