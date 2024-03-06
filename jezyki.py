@@ -37,8 +37,8 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         lista.write('\n')
         with open(f'{nazwa}.md', 'w') as jezyk:
             # jezyk.write("balwanki są super")
-            results = DDGS().text('{nazwa}', region='wt-wt', safesearch='off', timelimit='y', max_results=1)
-            # results = DDGS().answers("{nazwa}")
+            # results = DDGS().text('{nazwa}', region='wt-wt', safesearch='off', timelimit='y', max_results=1)
+            results = DDGS().answers(nazwa)
             print(str(results))
             jezyk.write(str(results))
             # jezyk.write('ania jest super')
