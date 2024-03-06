@@ -1,41 +1,41 @@
 20 najpopularniejszych języków programowania:
 
-[Python page](../2.md)
+[Python page](../2)
 
-[C page](../3.md)
+[C page](../3)
 
-[C++ page](../4.md)
+[C++ page](../4)
 
-[Java page](../5.md)
+[Java page](../5)
 
-[C# page](../6.md)
+[C# page](../6)
 
-[change](../7.md)
+[change](../7)
 
-[change](../8.md)
+[change](../8)
 
-[change](../9.md)
+[change](../9)
 
-[change](../10.md)
+[change](../10)
 
-[PHP page](../11.md)
+[PHP page](../11)
 
-[change](../12.md)
+[change](../12)
 
-[change](../13.md)
+[change](../13)
 
-[MATLAB page](../14.md)
+[MATLAB page](../14)
 
-[change](../15.md)
+[change](../15)
 
-[change](../16.md)
+[change](../16)
 
-[change](../17.md)
+[change](../17)
 
-[change](../18.md)
+[change](../18)
 
-[change](../19.md)
+[change](../19)
 
-[change](../20.md)
+[change](../20)
 
-[change](../21.md)
+[change](../21)

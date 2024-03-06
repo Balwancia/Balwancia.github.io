@@ -29,7 +29,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         lista.write(str(nazwa))
         lista.write('](../')
         lista.write(str(l))
-        lista.write('.md)')
+        lista.write(')')
         lista.write('\n')
         # lista.write(str(c))
         # print(tab.find'tr'))
