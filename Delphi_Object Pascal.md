@@ -1,3 +1,3 @@
 # Delphi/Object Pascal
-W spisie firmy Tiobe Delphi i Object Pascal są umieszczone na jednej pozycji. Jest to zupełnie oczywiste, ponieważ zarówno Delphi jak i Lazarus wykorzystują ten sam język programowania a różnią się tylko implementacjami kompilatorów (Delphi - komercyjne, Lazarus - open source Free Pascal).
-Źródło: https://pl.wikipedia.org/wiki/Object_Pascal
+Rozdział ten stanowi wstęp do programowania w Delphi. Poznanie zasad działania języka Object Pascal jest niezbędnym warunkiem kontynuowania nauki środowiska Delphi. Wszystkie informacje postaram się przekazać dokładnie, przedstawiając je krok po kroku. Zacznę oczywiście od spraw podstawowych. 1 Plik źródłowy projektu
+Źródło: https://4programmers.net/Delphi/Kompendium/Rozdział_2
