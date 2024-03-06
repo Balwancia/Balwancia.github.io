@@ -1,4 +1,4 @@
-C++programming language
+C++
 
-About C++ Programming. Multi-paradigm Language - C++ supports at least seven different styles of programming. Developers can choose any of the styles. General Purpose Language - You can use C++ to develop games, desktop apps, operating systems, and so on.; Speed - Like C programming, the performance of optimized C++ code is exceptional.; Object-oriented - C++ allows you to divide complex ...
+C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.
 Source: https://www.programiz.com/cpp-programming

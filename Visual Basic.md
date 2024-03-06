@@ -1,4 +1,4 @@
-Visual Basicprogramming language
+Visual Basic
 
-Learn Visual Basic programming in .NET - for beginning developers, developers new to Visual Basic, and experienced Visual Basic developers ... Visual Basic is an object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe .NET apps. Get started Download Download the .NET SDK;
+Visual Basic is an object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe .NET apps. Get started. Download the .NET SDK. Get Started. Create a .NET Core console application using Visual Studio. Create a .NET Standard library using Visual Studio. Walkthroughs. Additional resources.
 Source: https://learn.microsoft.com/en-us/dotnet/visual-basic/

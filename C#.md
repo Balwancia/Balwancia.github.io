@@ -1,4 +1,4 @@
-C#programming language
+C#
 
-C# is the most popular language for .NET development. With .NET you can target any application type running on any platform. Reuse your skills, code, and favorite libraries across all of them in a familiar environment. That means you can build apps faster, with less cost. From mobile applications running on iOS and Android, to enterprise server ...
+C# is a modern, innovative, open-source, cross-platform object-oriented programming language and one of the top 5 programming languages on GitHub. Do you have experience with JavaScript, Java, or C++? You'll find C# instantly familiar, and you'll enjoy its evolving features including type safety, generics, pattern matching, async, records, and ...
 Source: https://dotnet.microsoft.com/en-us/languages/csharp

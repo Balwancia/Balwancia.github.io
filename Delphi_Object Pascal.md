@@ -1,4 +1,4 @@
-Delphi/Object Pascalprogramming language
+Delphi/Object Pascal
 
-Delphi is a general-purpose programming language and a software product that uses the Delphi dialect of the Object Pascal programming language and provides an integrated development environment (IDE) for rapid application development of desktop, mobile, web, and console software, [3] currently developed and maintained by Embarcadero Technologies .
+Delphi uses the Pascal-based programming language Object Pascal created by Anders Hejlsberg for Borland (now IDERA) as the successor to Turbo Pascal. It supports native cross-compilation to many platforms including Windows, Linux, iOS and Android.
 Source: https://en.wikipedia.org/wiki/Delphi_(software)

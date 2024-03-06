@@ -31,15 +31,16 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         lista.write(procent + '\n')
         with open(f'{nazwa1}.md', 'w') as jezyk:
             # jezyk.write('kotki na niebie')
-            results = DDGS().text(nazwa1 + 'programming language', max_results=1)
+            results = DDGS().text(nazwa1 + 'programming language', region='pl-pl', max_results=1)
+            print(results)
             t = results[0]['body']
-            jezyk.write(nazwa + ' programming language\n\n')
+            jezyk.write(nazwa + '\n\n')
             jezyk.write(t + '\n')
             jezyk.write('Source: ')
             h = results[0]['href']
             jezyk.write(h)
             # h = results['body']
-            # results = DDGS().answers(text)
+            # results = DDGS().text(nazwa1)
             # results = requests.get(results)
             # print(str(results))
             # jezyk.write(str(results))

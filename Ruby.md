@@ -1,4 +1,4 @@
-Rubyprogramming language
+Ruby
 
-Ruby 3.3.0-rc1 Released. We are pleased to announce the release of Ruby 3.3.0-rc1. Ruby 3.3 adds a new parser named Prism, uses Lrama as a parser generator, adds a new pure-Ruby JIT compiler named RJIT, and many performance improvements especially YJIT.
+A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. Download Ruby or Read More...
 Source: https://www.ruby-lang.org/en/

@@ -1,4 +1,4 @@
-Cprogramming language
+C
 
-C Programming at Wikibooks. C ( pronounced / ˈsiː / - like the letter c) [6] is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating ...
+C is an imperative procedural language, supporting structured programming, lexical variable scope, and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support.
 Source: https://en.wikipedia.org/wiki/C_(programming_language)

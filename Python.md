@@ -1,4 +1,4 @@
-Pythonprogramming language
+Python
 
-The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. Learn more. Become a Member Donate to the PSF. The official home of the Python Programming Language.
+Python is a programming language that lets you work quickly and integrate systems more effectively. Learn More. Get Started. Whether you're new to programming or an experienced developer, it's easy to learn and use Python. Start with our Beginner's Guide. Download. Python source code and installers are available for download for all versions!
 Source: https://www.python.org/
