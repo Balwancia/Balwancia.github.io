@@ -1,4 +1,3 @@
-#Rust
-
+# Rust
 Rust - kompilowany język programowania ogólnego przeznaczenia. Stworzony z myślą o „bezpieczeństwie, współbieżności i praktyczności". Historia[edytuj | edytuj kod] Język zaprojektował Graydon Hoare w 2006 roku, w 2009 projekt został przyjęty pod skrzydła Mozilla Foundation [2]. W 2010 Mozilla upubliczniła informację o języku [3].
 Źródło: https://pl.wikipedia.org/wiki/Rust_(język_programowania)

@@ -34,7 +34,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
             results = DDGS().text(nazwa1 + 'język programowania', region='pl-pl', max_results=1)
             print(results)
             t = results[0]['body']
-            jezyk.write('#' + nazwa + '\n\n')
+            jezyk.write('# ' + nazwa + '\n')
             jezyk.write(t + '\n')
             jezyk.write('Źródło: ')
             h = results[0]['href']
