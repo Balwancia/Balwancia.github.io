@@ -17,7 +17,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         # print(a)
         d = a.find_all('td')
         nazwa = str(d[4].text)
-        nazwa1 = nazwa.replace('/','_')
+        # nazwa1 = nazwa.replace('/','_')
         procent = str(d[5].text)
         obrazek = d[3].find('img')['src']
         # print(obrazek)
@@ -30,13 +30,13 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         lista.write('![](https://www.tiobe.com')
         lista.write(obrazek + ')' + '\n')
         lista.write('[')
-        lista.write(nazwa1)
+        lista.write(nazwa)
         lista.write('](../')
-        lista.write(nazwa1)
+        lista.write(nazwa)
         lista.write(')\n')
         lista.write(procent)
         lista.write('\n')
-        with open(f'{nazwa1}.md', 'w') as jezyk:
+        with open(f'{nazwa}.md', 'w') as jezyk:
             jezyk.write('kotki na niebie')
             # results = DDGS().answers(nazwa1)
             # print(str(results))
