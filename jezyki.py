@@ -24,6 +24,7 @@ with open(f'jezyki_programowania.md', 'w') as lista:
         # nazwa = c.get('alt')
         # print(b.get('td'))
         lista.write('\n')
+        lista.write(str(l) + '. ')
         lista.write('[')
         lista.write(nazwa)
         lista.write('](../')

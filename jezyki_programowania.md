@@ -1,61 +1,61 @@
 20 najpopularniejszych języków programowania:
 
-[Python](../Python)
+2. [Python](../Python)
 15.16%
 
-[C](../C)
+3. [C](../C)
 10.97%
 
-[C++](../C++)
+4. [C++](../C++)
 10.53%
 
-[Java](../Java)
+5. [Java](../Java)
 8.88%
 
-[C#](../C#)
+6. [C#](../C#)
 7.53%
 
-[JavaScript](../JavaScript)
+7. [JavaScript](../JavaScript)
 3.17%
 
-[SQL](../SQL)
+8. [SQL](../SQL)
 1.82%
 
-[Go](../Go)
+9. [Go](../Go)
 1.73%
 
-[Visual Basic](../Visual Basic)
+10. [Visual Basic](../Visual Basic)
 1.52%
 
-[PHP](../PHP)
+11. [PHP](../PHP)
 1.51%
 
-[Fortran](../Fortran)
+12. [Fortran](../Fortran)
 1.40%
 
-[Delphi/Object Pascal](../Delphi/Object Pascal)
+13. [Delphi/Object Pascal](../Delphi/Object Pascal)
 1.40%
 
-[MATLAB](../MATLAB)
+14. [MATLAB](../MATLAB)
 1.26%
 
-[Assembly language](../Assembly language)
+15. [Assembly language](../Assembly language)
 1.19%
 
-[Scratch](../Scratch)
+16. [Scratch](../Scratch)
 1.18%
 
-[Swift](../Swift)
+17. [Swift](../Swift)
 1.16%
 
-[Kotlin](../Kotlin)
+18. [Kotlin](../Kotlin)
 1.07%
 
-[Rust](../Rust)
+19. [Rust](../Rust)
 1.05%
 
-[COBOL](../COBOL)
+20. [COBOL](../COBOL)
 1.01%
 
-[Ruby](../Ruby)
+21. [Ruby](../Ruby)
 0.99%
