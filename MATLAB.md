@@ -1,3 +1,3 @@
 # MATLAB
-Gdańskiej jako pomoc dydaktyczna do laboratorium z programowania w języku MATLAB, prowadzonego w ramach przedmiotu podstawy informatyki. • W pierwszej części zeszytu omówiono podstawowe funkcje: operacje na macierzach, działania tablicowe, operatory logiczne oraz elementy algebry liniowej.
-Źródło: http://ftj.agh.edu.pl/~stegowski/rozne/m_skrypcik.pdf
+Język programowania pakietu MATLAB jest pełnoprawnym językiem programowania wysokiego poziomu, o składni wzorowanej na języku C. Pozwala on na używanie funkcji i struktur, oraz umożliwia pisanie programów zorientowanych obiektowo. Posiada on instrukcje sterujące takie jak: if, for, while, switch.
+Źródło: https://pl.wikipedia.org/wiki/MATLAB
